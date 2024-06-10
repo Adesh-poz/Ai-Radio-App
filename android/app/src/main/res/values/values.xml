@@ -2,7 +2,7 @@
     <string name="default_web_client_id">YOUR_DEFAULT_WEB_CLIENT_ID</string>
     <string name="firebase_database_url" />
     <string name="gcm_defaultSenderId" />
-    <string name="google_api_key">AIzaSyA1WhJUgOa5Gh6CXXDRPGJ4eXRgZ5tnJNg</string>
+    <string name="google_api_key">insert-your-own-api-key</string>
     <string name="google_app_id">1:926036910517:android:63a578eaea7c5e49a739fc</string>
     <string name="google_crash_reporting_api_key" />
     <string name="google_storage_bucket">ai-radio-app-643a1.appspot.com</string>
