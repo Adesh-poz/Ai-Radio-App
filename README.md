@@ -1,16 +1,37 @@
-# ai_radio_app
+# AI Radio App
+The AI Radio App is a cutting-edge radio streaming application powered by artificial intelligence. It provides users with a hands-free listening experience and AI-powered voice commands.
 
-A new Flutter project.
+## Features
 
-## Getting Started
+- Voice Commands: Users can control the app hands-free using voice commands to play, pause, change stations, and more, enhancing the user experience.
 
-This project is a starting point for a Flutter application.
+## Installation
+To run the AI Radio App on your device, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+- Clone the repository from GitHub:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+`git clone https://github.com/your-username/ai-radio-app.git`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Navigate to the project directory and open the pubspec.yaml file.
+
+- Click on "Get Dependencies" to install the required packages. Alternatively, you can run the following command in your project terminal:
+
+`flutter pub get`
+
+## Usage
+
+### Prerequisites
+
+Android Emulator or Physical Android device connected to your IDE.
+
+### Running the App
+
+- Ensure that you have set up an Android Emulator or connected a Physical device to your IDE.
+
+- Select **main.dart** as the configuration.
+
+- Click on the "Run" button in your IDE or run the following command in your project terminal:
+
+`flutter run`
+
+- The app will be installed on the selected Emulator or connected device automatically.
